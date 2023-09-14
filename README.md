@@ -40,7 +40,7 @@ Temporal factors, such as the day of the week and the month of absence, are anal
 
 The project provides various insights into the factors affecting absenteeism at work, including social habits, education level, transportation costs, and temporal patterns. Statistical tests and visualizations aid in understanding these relationships.
 
-- Education Level :
+
 ![Disease vs Non-Disease](image.png)
 As we can see, the number of reasons for absence that are not listed in the ICD table is almost twice the number of listed ones.
 
